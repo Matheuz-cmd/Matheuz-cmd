@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus Nunes!👋
 
-Currently studying Computer Engineer at Universidade Federal do Ceará (UFC). I have professional experience in web development, focused on Front-End development, and I am continuously exploring and learning new technologies to enhance my skill in software engineering.
+Currently studying Computer Engineer at Universidade Federal do Ceará (UFC). I have professional experience in web development, focused on Front-End development, and i am continuously exploring and learning new technologies to enhance my skill in software engineering.
 
 ### Github Stats
 
